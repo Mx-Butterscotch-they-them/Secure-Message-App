@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "uuid": "string",
+    "timestamp": "ISO8601 string",
+    "sender_id": "string",
+    "recipient_id": "string",
+    "ephemeral_public": "string:",
+    "key_wrap": {
+        "iv": "string",
+        "ciphertext": "string",
+        "tag": "string"
+    },
+    "message": {
+        "iv": "string",
+        "ciphertext": "string",
+        "tag": "string"
+    },
+    "metadata": {
+        "fields": {
+        "version": "1.0",
+        "uuid": "string",
+        "timestamp": "ISO8601 string",
+        "sender_id": "string",
+        "recipient_id": "string"
+        }
+    },
+    "signature": "string/null"
+}
