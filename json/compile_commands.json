@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/lex/eclipse-workspace1/EncryptionApp/json",
+    "command": "c++ -IEncryptionApp.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -MD -MQ EncryptionApp.p/src_main_Main.cpp.o -MF EncryptionApp.p/src_main_Main.cpp.o.d -o EncryptionApp.p/src_main_Main.cpp.o -c ../src/main/Main.cpp",
+    "file": "../src/main/Main.cpp",
+    "output": "EncryptionApp.p/src_main_Main.cpp.o"
+  }
+]
